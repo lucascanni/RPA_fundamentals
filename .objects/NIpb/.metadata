@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Amazon.fr  ps5",
+  "Type": "App",
+  "Id": "NIpbPiYuAEy_P17yst92rA",
+  "Reference": "BiLd4UAupkWA8x_YrQx9vQ/NIpbPiYuAEy_P17yst92rA",
+  "Created": "2024-08-25T22:25:36.1094276Z",
+  "Updated": "2024-08-25T22:25:36.1094276Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

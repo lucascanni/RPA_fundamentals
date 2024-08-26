@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Amazon.fr  ps5",
+  "Type": "Screen",
+  "Id": "pOPiE6edEkuXUxmdg8gBDg",
+  "Reference": "BiLd4UAupkWA8x_YrQx9vQ/pOPiE6edEkuXUxmdg8gBDg",
+  "ParentRef": "BiLd4UAupkWA8x_YrQx9vQ/fx56L_ftwkK3ctLSmwswlA",
+  "Created": "2024-08-25T22:25:36.16735Z",
+  "Updated": "2024-08-25T22:25:36.16735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
